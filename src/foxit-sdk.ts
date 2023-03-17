@@ -1,4 +1,3 @@
-// @ts-ignore0
 import * as PDFViewCtrl from '@foxitsoftware/foxit-pdf-sdk-for-web-library-full/lib/PDFViewCtrl.full';
 
 
